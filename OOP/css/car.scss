@@ -1,0 +1,21 @@
+.car {
+
+    border: 1px red solid;
+    margin: 10px;
+    padding: 10px;
+
+    .hide {
+        display: none;
+    }
+    .info-panel {
+        label {
+            font-weight: bold;
+        }
+
+    }
+}
+
+.container {
+    width: 40%;
+    margin: 0 auto;
+}
